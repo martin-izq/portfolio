@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "lang": "en"
+  },
+  "header": {
+    "subtitle": "Computer Engineer & Senior Software Engineer"
+  },
+  "profile": {
+    "title": "Professional Profile",
+    "text": "Computer Engineer and Senior Software Engineer with over 10 years of experience in high-criticality systems. Expert in Golang, Java, Microservices, and Software Architecture with consolidated experience at Mercado Libre, Sovos, and Globant."
+  },
+  "cv": {
+    "label": "Download CV (PDF)",
+    "file": "assets/Martin-Izquierdo-CV-EN.pdf"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": [
+      {
+        "company": "Mercado Libre (IT Credits)",
+        "role": "Sr. Software Engineer",
+        "date": "Nov 2021 — Present",
+        "tasks": [
+          "Design and development of critical back-end services in Golang for the Credits business unit.",
+          "Implementation of Datadog dashboards and ELK Stack logging, ensuring 99.9% uptime.",
+          "Leading proactive payment initiatives for Brazil and preparing architecture for Banxico audits.",
+          "Cybersecurity mentorship as part of the Security Guardians team."
+        ]
+      },
+      {
+        "company": "Sovos",
+        "role": "Technical Leader",
+        "date": "Jun 2021 — Oct 2021",
+        "tasks": [
+          "Led technical strategy and architectural roadmaps for multiple projects.",
+          "Technical reference for multidisciplinary teams, implementing Pair Programming and code reviews.",
+          "Critical decisions on distributed systems design and microservices in Java and Spring."
+        ]
+      },
+      {
+        "company": "Sovos",
+        "role": "Software Engineer (Senior / III)",
+        "date": "Apr 2018 — Jun 2021",
+        "tasks": [
+          "Designed robust integration products connecting ERPs with core services.",
+          "Optimized CI/CD flows using Jenkins, Puppet, and Docker for frequent deployments.",
+          "Transitioned legacy modules to modern microservices architecture."
+        ]
+      },
+      {
+        "company": "Globant",
+        "role": "Java Developer (Ssr / Jr)",
+        "date": "Feb 2015 — Apr 2018",
+        "tasks": [
+          "Implementation of high-concurrency solutions for Crew Scheduling (Southwest Airlines).",
+          "Responsible for full life cycle of mission-critical legacy applications.",
+          "Designed a communication Proxy for incompatible protocols (3C Interactive)."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "items": [
+      { "title": "Core", "content": "Golang, Java, Spring, REST APIs, Docker, Linux" },
+      { "title": "DevOps", "content": "CI/CD, Jenkins, Datadog, ELK Stack, Microservices" },
+      { "title": "Data", "content": "MySQL, NoSQL, Oracle" }
+    ]
+  },
+  "education": {
+    "title": "Education & Languages",
+    "content": "<p><strong>Computer Engineering</strong> — Universidad Nacional de Tucumán</p><p><strong>Electronic Technician</strong> — Instituto Técnico Lorenzo Massa</p><p>Spanish: Native | English: Intermediate</p>"
+  },
+  "footer": "© 2025 Martín Izquierdo — Tucumán, Argentina"
+}

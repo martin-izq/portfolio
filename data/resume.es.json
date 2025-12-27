@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "lang": "es"
+  },
+  "header": {
+    "subtitle": "Ingeniero en Computación & Senior Software Engineer"
+  },
+  "profile": {
+    "title": "Perfil Profesional",
+    "text": "Ingeniero en Computación y Senior Software Engineer con más de 10 años de experiencia en sistemas de alta criticidad. Especialista en Golang, Java, Microservicios y Arquitectura de software con experiencia consolidada en Mercado Libre, Sovos y Globant."
+  },
+  "cv": {
+    "label": "Descargar CV (PDF)",
+    "file": "assets/Martin-Izquierdo-CV-ES.pdf"
+  },
+  "experience": {
+    "title": "Experiencia Laboral",
+    "jobs": [
+      {
+        "company": "Mercado Libre (IT Credits)",
+        "role": "Sr. Software Engineer",
+        "date": "Nov 2021 — Actualidad",
+        "tasks": [
+          "Diseño y desarrollo de servicios back-end críticos en Golang para la unidad de Credits.",
+          "Implementación de tableros en Datadog y patrones de logging en ELK Stack (99.9% uptime).",
+          "Liderazgo de pagos proactivos en Brasil y preparación para auditorías de Banxico.",
+          "Mentoría y concientización sobre seguridad informática (Security Guardians)."
+        ]
+      },
+      {
+        "company": "Sovos",
+        "role": "Líder Técnico",
+        "date": "Jun 2021 — Oct 2021",
+        "tasks": [
+          "Liderazgo de estrategia técnica y roadmaps arquitectónicos.",
+          "Referente técnico con prácticas de Pair Programming y revisiones de código.",
+          "Diseño de sistemas distribuidos y microservicios en Java y Spring."
+        ]
+      },
+      {
+        "company": "Sovos",
+        "role": "Software Engineer (Senior / III)",
+        "date": "Abr 2018 — Jun 2021",
+        "tasks": [
+          "Diseño e implementación de productos de integración entre ERPs y servicios core.",
+          "Optimización de flujos CI/CD con Jenkins, Puppet y Docker.",
+          "Transición de módulos legacy hacia arquitectura de microservicios."
+        ]
+      },
+      {
+        "company": "Globant",
+        "role": "Java Developer (Ssr / Jr)",
+        "date": "Feb 2015 — Abr 2018",
+        "tasks": [
+          "Soluciones de alta concurrencia para gestión de tripulaciones (Southwest Airlines).",
+          "Responsable del ciclo de vida de aplicaciones de misión crítica.",
+          "Diseño y desarrollo de Proxy de comunicación para protocolos incompatibles."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Habilidades Técnicas",
+    "items": [
+      { "title": "Core", "content": "Golang, Java, Spring, APIs REST, Docker, Linux" },
+      { "title": "DevOps", "content": "CI/CD, Jenkins, Datadog, ELK Stack, Microservicios" },
+      { "title": "Datos", "content": "MySQL, NoSQL, Oracle" }
+    ]
+  },
+  "education": {
+    "title": "Educación e Idiomas",
+    "content": "<p><strong>Ingeniería en Computación</strong> — Universidad Nacional de Tucumán</p><p><strong>Técnico Electrónico</strong> — Instituto Técnico Lorenzo Massa</p><p>Español: Nativo | Inglés: Intermedio</p>"
+  },
+  "footer": "© 2025 Martín Izquierdo — Tucumán, Argentina"
+}
