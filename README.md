@@ -1,6 +1,4 @@
-# Martín Izquierdo — Senior Software Engineer
-
-Personal professional portfolio and resume website.
+# Personal professional portfolio and resume website.
 
 This repository contains a lightweight, framework-agnostic personal website designed to showcase professional experience, technical skills, and career background in a clear, accessible, and scalable way.
 
