@@ -3,11 +3,11 @@
     "lang": "en"
   },
   "header": {
-    "subtitle": "Computer Engineer & Senior Software Engineer"
+    "subtitle": "Computer Engineer & technical leader"
   },
   "profile": {
     "title": "Professional Profile",
-    "text": "Computer Engineer and Senior Software Engineer with over 10 years of experience in high-criticality systems. Expert in Golang, Java, Microservices, and Software Architecture with consolidated experience at Mercado Libre, Sovos, and Globant."
+    "text": "Computer Engineer and Technical leader with over 10 years of experience in high-criticality systems. Expert in Golang, Java, Microservices, and Software Architecture with consolidated experience at Totalcoin, Mercado Libre, Sovos, and Globant."
   },
   "cv": {
     "label": "Download CV (PDF)",
@@ -17,9 +17,20 @@
     "title": "Work Experience",
     "jobs": [
       {
+        "company": "Totalcoin",
+        "role": "Technical Leader",
+        "date": "Mar 2026 — Present",
+        "tasks": [
+          "Technical leadership of the development team, defining architecture and engineering standards.",
+          "Design of scalable distributed systems and key technical decision-making.",
+          "Team mentorship and promotion of best practices.",
+          "Aligning the technical strategy with the product's business goals."
+        ]
+      },
+      {
         "company": "Mercado Libre (IT Credits)",
         "role": "Sr. Software Engineer",
-        "date": "Nov 2021 — Present",
+        "date": "Nov 2021 — Mar 2026",
         "tasks": [
           "Design and development of critical back-end services in Golang for the Credits business unit.",
           "Implementation of Datadog dashboards and ELK Stack logging, ensuring 99.9% uptime.",

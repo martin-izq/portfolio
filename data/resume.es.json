@@ -3,11 +3,11 @@
     "lang": "es"
   },
   "header": {
-    "subtitle": "Ingeniero en Computación & Senior Software Engineer"
+    "subtitle": "Ingeniero en Computación & líder técnico"
   },
   "profile": {
     "title": "Perfil Profesional",
-    "text": "Ingeniero en Computación y Senior Software Engineer con más de 10 años de experiencia en sistemas de alta criticidad. Especialista en Golang, Java, Microservicios y Arquitectura de software con experiencia consolidada en Mercado Libre, Sovos y Globant."
+    "text": "Ingeniero en Computación y Líder técnico con más de 10 años de experiencia en sistemas de alta criticidad. Especialista en Golang, Java, Microservicios y Arquitectura de software con experiencia consolidada en Totalcoin, Mercado Libre, Sovos y Globant."
   },
   "cv": {
     "label": "Descargar CV (PDF)",
@@ -17,9 +17,20 @@
     "title": "Experiencia Laboral",
     "jobs": [
       {
+        "company": "Totalcoin",
+        "role": "Technical Leader",
+        "date": "Mar 2026 — Actualidad",
+        "tasks": [
+          "Liderazgo técnico del equipo de desarrollo, definiendo arquitectura y estándares de ingeniería.",
+          "Diseño de sistemas distribuidos escalables y toma de decisiones técnicas clave.",
+          "Mentoría del equipo y promoción de buenas prácticas.",
+          "Alineación de la estrategia técnica con los objetivos de negocio del producto."
+        ]
+      },
+      {
         "company": "Mercado Libre (IT Credits)",
         "role": "Sr. Software Engineer",
-        "date": "Nov 2021 — Actualidad",
+        "date": "Nov 2021 — Mar 2026",
         "tasks": [
           "Diseño y desarrollo de servicios back-end críticos en Golang para la unidad de Credits.",
           "Implementación de tableros en Datadog y patrones de logging en ELK Stack (99.9% uptime).",
