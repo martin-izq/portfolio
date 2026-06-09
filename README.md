@@ -1,12 +1,10 @@
-# Martín Izquierdo — Senior Software Engineer
-
-Personal professional portfolio and resume website.
+# Personal professional portfolio and resume website.
 
 This repository contains a lightweight, framework-agnostic personal website designed to showcase professional experience, technical skills, and career background in a clear, accessible, and scalable way.
 
 The project intentionally avoids heavy frameworks to emphasize clean architecture and semantic HTML.
 
-## 🎯 Goals
+## Goals
 
 - Present professional experience in a clear and readable format
 - Ensure compatibility with Applicant Tracking Systems (ATS)
@@ -15,7 +13,7 @@ The project intentionally avoids heavy frameworks to emphasize clean architectur
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```txt
 .
